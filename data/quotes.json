@@ -83,5 +83,22 @@
     { "decade": "2010s", "year": 2016, "movie": "Arrival", "quote": "If you could see your whole life from start to finish, would you change things?" },
     { "decade": "2010s", "year": 2017, "movie": "Blade Runner 2049", "quote": "Dying for the right cause. It's the most human thing we can do." },
     { "decade": "2010s", "year": 2018, "movie": "Ready Player One", "quote": "I created the OASIS because I never felt at home in the real world." }
+  ],
+  "2020s": [
+    { "decade": "2020s", "year": 2020, "movie": "Bloodshot", "quote": "It's nano-tech." },
+    { "decade": "2020s", "year": 2020, "movie": "Tenet", "quote": "Don't try to understand it. Feel it." },
+    { "decade": "2020s", "year": 2021, "movie": "Free Guy", "quote": "Don't have a good day. Have a great day." },
+    { "decade": "2020s", "year": 2021, "movie": "The Mitchells vs. the Machines", "quote": "We just need to be a family for, like, an hour." },
+    { "decade": "2020s", "year": 2021, "movie": "Finch", "quote": "All life ends. That doesn't mean it doesn't matter." },
+    { "decade": "2020s", "year": 2021, "movie": "The Matrix Resurrections", "quote": "I still know kung fu." },
+    { "decade": "2020s", "year": 2021, "movie": "Dune", "quote": "Fear is the mind-killer." },
+    { "decade": "2020s", "year": 2022, "movie": "M3GAN", "quote": "M3GAN, that's enough." },
+    { "decade": "2020s", "year": 2022, "movie": "Everything Everywhere All at Once", "quote": "The only thing I do know is that we have to be kind." },
+    { "decade": "2020s", "year": 2022, "movie": "Top Gun: Maverick", "quote": "Don't think. Just do." },
+    { "decade": "2020s", "year": 2023, "movie": "Mission: Impossible - Dead Reckoning Part One", "quote": "Our lives are the sum of our choices." },
+    { "decade": "2020s", "year": 2023, "movie": "The Creator", "quote": "She is a child. She just looks like a weapon." },
+    { "decade": "2020s", "year": 2023, "movie": "Oppenheimer", "quote": "Now I am become Death, the destroyer of worlds." },
+    { "decade": "2020s", "year": 2024, "movie": "The Wild Robot", "quote": "Sometimes to survive, we must become more than we were programmed to be." },
+    { "decade": "2020s", "year": 2024, "movie": "Atlas", "quote": "Trust your AI." }
   ]
 }
