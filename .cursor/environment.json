@@ -1,0 +1,15 @@
+{
+  "$schema": "https://www.cursor.com/schemas/environment.schema.json",
+  "install": "corepack enable && pnpm install --frozen-lockfile",
+  "start": "pnpm dev",
+  "terminals": [
+    {
+      "name": "dev",
+      "command": "pnpm dev"
+    },
+    {
+      "name": "mcp-inspect",
+      "command": "pnpm mcp"
+    }
+  ]
+}
