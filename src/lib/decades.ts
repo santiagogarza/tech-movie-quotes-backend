@@ -1,6 +1,6 @@
 import { z } from "zod";
 
-export const DECADES = ["70s", "80s", "90s", "2000s", "2010s"] as const;
+export const DECADES = ["70s", "80s", "90s", "2000s", "2010s", "2020s"] as const;
 
 export type Decade = (typeof DECADES)[number];
 
