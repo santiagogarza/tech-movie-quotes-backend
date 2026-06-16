@@ -9,17 +9,17 @@
     { "decade": "70s", "year": 1974, "movie": "Phase IV", "quote": "We knew they were there." },
     { "decade": "70s", "year": 1975, "movie": "The Stepford Wives", "quote": "I thought we were all going to be perfect." },
     { "decade": "70s", "year": 1975, "movie": "Death Race 2000", "quote": "We've got to stop this race." },
-    { "decade": "70s", "year": 1976, "movie": "Logan's Run", "quote": "There is no sanctuary." },
     { "decade": "70s", "year": 1976, "movie": "Futureworld", "quote": "I am only a machine." },
+    { "decade": "70s", "year": 1977, "movie": "Star Wars", "quote": "I find your lack of faith disturbing." },
     { "decade": "70s", "year": 1977, "movie": "Demon Seed", "quote": "I am Proteus IV." },
     { "decade": "70s", "year": 1977, "movie": "Star Wars", "quote": "These aren't the droids you're looking for." },
     { "decade": "70s", "year": 1977, "movie": "Capricorn One", "quote": "We never went to Mars." },
-    { "decade": "70s", "year": 1979, "movie": "Alien", "quote": "In space, no one can hear you scream." }
+    { "decade": "70s", "year": 1979, "movie": "The Black Hole", "quote": "What a magnificent example of man's mechanical ingenuity!" }
   ],
   "80s": [
     { "decade": "80s", "year": 1982, "movie": "Tron", "quote": "Greetings, programs!" },
     { "decade": "80s", "year": 1982, "movie": "Blade Runner", "quote": "I've seen things you people wouldn't believe." },
-    { "decade": "80s", "year": 1983, "movie": "WarGames", "quote": "Shall we play a game?" },
+    { "decade": "80s", "year": 1983, "movie": "WarGames", "quote": "The only winning move is not to play." },
     { "decade": "80s", "year": 1984, "movie": "The Terminator", "quote": "I'll be back." },
     { "decade": "80s", "year": 1984, "movie": "The Last Starfighter", "quote": "Greetings, Starfighter." },
     { "decade": "80s", "year": 1984, "movie": "2010: The Year We Make Contact", "quote": "All these worlds are yours." },
@@ -27,17 +27,17 @@
     { "decade": "80s", "year": 1985, "movie": "Back to the Future", "quote": "Roads? Where we're going, we don't need roads." },
     { "decade": "80s", "year": 1985, "movie": "Brazil", "quote": "We're all in it together." },
     { "decade": "80s", "year": 1986, "movie": "Aliens", "quote": "Game over, man! Game over!" },
-    { "decade": "80s", "year": 1986, "movie": "Short Circuit", "quote": "Number Five is alive!" },
+    { "decade": "80s", "year": 1986, "movie": "Short Circuit", "quote": "Need input!" },
     { "decade": "80s", "year": 1986, "movie": "Star Trek IV: The Voyage Home", "quote": "Hello, computer." },
     { "decade": "80s", "year": 1987, "movie": "RoboCop", "quote": "Dead or alive, you're coming with me." },
     { "decade": "80s", "year": 1987, "movie": "Predator", "quote": "Get to the chopper!" },
     { "decade": "80s", "year": 1988, "movie": "Akira", "quote": "Tetsuo!" }
   ],
   "90s": [
-    { "decade": "90s", "year": 1990, "movie": "Total Recall", "quote": "Get your ass to Mars." },
     { "decade": "90s", "year": 1991, "movie": "Terminator 2: Judgment Day", "quote": "Hasta la vista, baby." },
+    { "decade": "90s", "year": 1990, "movie": "Total Recall", "quote": "Get your ass to Mars." },
     { "decade": "90s", "year": 1992, "movie": "The Lawnmower Man", "quote": "I am God here." },
-    { "decade": "90s", "year": 1992, "movie": "Sneakers", "quote": "Too many secrets." },
+    { "decade": "90s", "year": 1992, "movie": "Sneakers", "quote": "My voice is my passport. Verify me." },
     { "decade": "90s", "year": 1993, "movie": "Jurassic Park", "quote": "Hold onto your butts." },
     { "decade": "90s", "year": 1993, "movie": "Demolition Man", "quote": "Be well." },
     { "decade": "90s", "year": 1994, "movie": "Stargate", "quote": "Give my regards to King Tut." },
@@ -53,10 +53,10 @@
   "2000s": [
     { "decade": "2000s", "year": 2000, "movie": "X-Men", "quote": "Do you know what happens to a toad when it's struck by lightning?" },
     { "decade": "2000s", "year": 2001, "movie": "A.I. Artificial Intelligence", "quote": "Mommy, will you die?" },
-    { "decade": "2000s", "year": 2002, "movie": "Minority Report", "quote": "Everybody runs." },
+    { "decade": "2000s", "year": 2002, "movie": "Spider-Man", "quote": "With great power comes great responsibility." },
     { "decade": "2000s", "year": 2003, "movie": "The Matrix Reloaded", "quote": "Choice. The problem is choice." },
     { "decade": "2000s", "year": 2003, "movie": "Paycheck", "quote": "If you show someone their future, they have no future." },
-    { "decade": "2000s", "year": 2004, "movie": "I, Robot", "quote": "You are experiencing a car accident." },
+    { "decade": "2000s", "year": 2004, "movie": "I, Robot", "quote": "You are the dumbest smart person I have ever met." },
     { "decade": "2000s", "year": 2004, "movie": "The Incredibles", "quote": "Where is my super suit?" },
     { "decade": "2000s", "year": 2005, "movie": "Serenity", "quote": "I aim to misbehave." },
     { "decade": "2000s", "year": 2005, "movie": "V for Vendetta", "quote": "Remember, remember the fifth of November." },
@@ -64,7 +64,7 @@
     { "decade": "2000s", "year": 2007, "movie": "Transformers", "quote": "More than meets the eye." },
     { "decade": "2000s", "year": 2008, "movie": "Eagle Eye", "quote": "You are required to obey." },
     { "decade": "2000s", "year": 2008, "movie": "WALL-E", "quote": "Directive." },
-    { "decade": "2000s", "year": 2008, "movie": "Iron Man", "quote": "I am Iron Man." },
+    { "decade": "2000s", "year": 2008, "movie": "Iron Man", "quote": "Genius, billionaire, playboy, philanthropist." },
     { "decade": "2000s", "year": 2009, "movie": "Avatar", "quote": "I see you." }
   ],
   "2010s": [
