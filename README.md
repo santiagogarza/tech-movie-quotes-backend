@@ -13,8 +13,8 @@ directly — same pattern as Claude Desktop and other MCP hosts.
 
 ## Catalog
 
-- 5 decades: `70s`, `80s`, `90s`, `2000s`, `2010s`
-- 15 quotes per decade, 75 total
+- 6 decades: `70s`, `80s`, `90s`, `2000s`, `2010s`, `2020s`
+- 15 quotes per decade, 90 total
 - Each entry: `{ decade, year, movie, quote }`
 
 ## Prerequisites
@@ -37,7 +37,7 @@ child process has connected.
 
 ```bash
 curl http://localhost:8787/health
-# {"ok":true,"mcp":"connected","decades":["70s","80s","90s","2000s","2010s"],"quotesPerDecade":15}
+# {"ok":true,"mcp":"connected","decades":["70s","80s","90s","2000s","2010s","2020s"],"quotesPerDecade":15}
 
 curl http://localhost:8787/quotes/80s | jq '.quotes[0]'
 # {"decade":"80s","year":1982,"movie":"Tron","quote":"Greetings, programs!"}
@@ -156,7 +156,7 @@ pnpm typecheck   # tsc --noEmit
 
 ## Demo script
 
-1. `pnpm install && pnpm dev` — the server logs `MCP connected; 5 decades, 15 quotes per decade`.
+1. `pnpm install && pnpm dev` — the server logs `MCP connected; 6 decades, 15 quotes per decade`.
 2. `curl http://localhost:8787/health` — show the JSON response.
 3. `curl http://localhost:8787/mcp-info | jq` — show that the HTTP
    layer really is spawning a stdio MCP child process. Point out the

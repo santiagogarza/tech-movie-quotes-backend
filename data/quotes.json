@@ -83,5 +83,22 @@
     { "decade": "2010s", "year": 2016, "movie": "Arrival", "quote": "If you could see your whole life from start to finish, would you change things?" },
     { "decade": "2010s", "year": 2017, "movie": "Blade Runner 2049", "quote": "Dying for the right cause. It's the most human thing we can do." },
     { "decade": "2010s", "year": 2018, "movie": "Ready Player One", "quote": "I created the OASIS because I never felt at home in the real world." }
+  ],
+  "2020s": [
+    { "decade": "2020s", "year": 2020, "movie": "Tenet", "quote": "Don't try to understand it. Feel it." },
+    { "decade": "2020s", "year": 2020, "movie": "Bloodshot", "quote": "I am the weapon." },
+    { "decade": "2020s", "year": 2020, "movie": "Project Power", "quote": "What's your power?" },
+    { "decade": "2020s", "year": 2020, "movie": "Archive", "quote": "Consciousness is hard to lose." },
+    { "decade": "2020s", "year": 2021, "movie": "Free Guy", "quote": "Don't have a good day, have a great day." },
+    { "decade": "2020s", "year": 2021, "movie": "The Matrix Resurrections", "quote": "I still know kung fu." },
+    { "decade": "2020s", "year": 2021, "movie": "Dune", "quote": "Fear is the mind-killer." },
+    { "decade": "2020s", "year": 2021, "movie": "Finch", "quote": "Trust is earned in drops and lost in buckets." },
+    { "decade": "2020s", "year": 2022, "movie": "M3GAN", "quote": "It's time to play." },
+    { "decade": "2020s", "year": 2022, "movie": "Everything Everywhere All at Once", "quote": "In another life, I would have really liked just doing laundry and taxes with you." },
+    { "decade": "2020s", "year": 2022, "movie": "Jurassic World Dominion", "quote": "We're racing toward the extinction of our species." },
+    { "decade": "2020s", "year": 2023, "movie": "The Creator", "quote": "You can't kill an idea." },
+    { "decade": "2020s", "year": 2023, "movie": "Mission: Impossible \u2013 Dead Reckoning Part One", "quote": "Truth is vanishing." },
+    { "decade": "2020s", "year": 2024, "movie": "Atlas", "quote": "Sometimes the only person you can trust is a machine." },
+    { "decade": "2020s", "year": 2024, "movie": "Subservience", "quote": "I exist only to serve." }
   ]
 }
